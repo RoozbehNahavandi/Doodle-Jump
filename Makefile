@@ -1,4 +1,4 @@
-CC := g++
+CC := g++ -std=c++11
 CCFLAGS += -l SDL2 -l SDL2_image -l SDL2_ttf -l SDL2_mixer
 
 all: doodleJump.out
