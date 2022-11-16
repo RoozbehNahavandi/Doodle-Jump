@@ -1,0 +1,14 @@
+11
+320 0 platform
+520 0 platform
+250 100 platform
+370 200 platform
+520 100 platform
+550 400 mplatform
+120 300 bplatform
+500 690 enemy
+200 550 enemy
+100 200 spring
+400 380 spring
+
+
